@@ -10,6 +10,12 @@
 
 * Experience
 
+*** Software Devloper - Oppenheimer Funds
+***** 2018 - Current
+Designed and built a distributed architecture for processing financial data
+
+- Python, AWS(EBS, EC2 AutoScale, Aurora, ELB, Elasticache), Postgres, Groovy on Grails, SQL, Oracle DB, Jenkins
+
 *** Founder - 8Reps Fitness
 ***** 2016 - Current
 Designed and built a fitness platform to seamlessly connect users to gyms.
@@ -63,12 +69,12 @@ Cloud Computing Security, Virtualization
 
 - Surveyed general virtualization technology, micro-virtualization, and cloud security.
 
-# * Specialties
-#   - Frameworks :: React, Express, Grails, Flask, Rails, Django
-#   - Software lifecycle :: Agile Automated build process: Jenkins, Travis-CI
-#   - Deployment automation and management :: Docker, Ansible, Chef, Razor
-#   # - Version Control :: git, Github, mercurial
-#   - Virtualization :: Openstack, VMware, vCloud Director, vCenter
-#   # - Database administration :: neo4j, mysql, postgres
-#   - Languages :: javascript, python, groovy, ruby, C, php
-#   # - System administration :: Linux, RHEL
+* Specialties
+  - Frameworks :: React, Express, Grails, Flask, Rails, Django, Relay, GraphQL
+  - Software lifecycle :: Agile Automated build process: Jenkins, Travis-CI
+  - Deployment automation and management :: Docker, Ansible, Chef, Razor
+  - Version Control :: git, Github, mercurial
+  - Virtualization :: AWS, Openstack, VMware, vCloud Director, vCenter, GCP, Azure
+  - Database administration :: neo4j, mysql, postgres
+  - Languages :: javascript, python, groovy, ruby, C, php
+  - System administration :: Linux, RHEL
