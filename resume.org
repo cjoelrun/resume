@@ -23,7 +23,7 @@ Designed and built a fitness platform to seamlessly connect users to gyms.
 - React Native, Serverless, NodeJS, Express, GraphQL, Docker, iOS, Android, MongoDB
 
 *** Software Developer III - Rackspace - VMWare
-***** 2015 - Current
+***** 2015 - 2018
 Lead dev team to iterative release cycle. Created an automated build system to configure bare metal hypervisors. Built self service vCenter storage metrics application; this resulted in an enhanced customer experience and reduced overhead by 1000+ hours of work.
 
 - vCenter, Grails, Groovy, JS, RabbitMQ, Splunk
@@ -40,19 +40,13 @@ Developed a CI test framework which rapidly integrates changes to a OpenStack pr
 
 - OpenStack, Python, Chef, Razor, Ansible, Jenkins, Red Hat Enterprise Linux
 
-*** Workstudy Developer - The University of Texas at San Antonio Ambassadors
-***** 2011 - 2012
-Drove improvements by gathering and implementing requirements reducing overhead by 75%. Designed an application which created a self sustaining work management system. Provided content management as well as self service metrics eliminating the need for any technical role.
+# *** Workstudy Developer - The University of Texas at San Antonio Ambassadors
+# ***** 2011 - 2012
+# Drove improvements by gathering and implementing requirements reducing overhead by 75%. Designed an application which created a self sustaining work management system. Provided content management as well as self service metrics eliminating the need for any technical role.
 
-- Ruby on Rails, Heroku, Postgres, PHP, MySQL, JS
+# - Ruby on Rails, Heroku, Postgres, PHP, MySQL, JS
 
 * Education
-
-*** Georgia Institute of Technology - Atlanta, Georgia
-***** 2016 - Current
-M.S., Computer Science, Machine Learning
-
-- Designed an Unscented Kalman Filter to localize and predict movement of objects using a neural network. Leveraged Python, opencv, numpy, and pybrain.
 
 *** The University of Texas at San Antonio - San Antonio, TX
 ***** 2009 - 2012
@@ -63,6 +57,10 @@ B.S., Computer Science, Concentration in Software Engineering
 - Built a RESTful medical information system using PHP, and MySQL.
 
 * Research
+
+*** Georgia Tech
+- Designed an Unscented Kalman Filter to localize and predict movement of objects using a neural network. Leveraged Python, opencv, numpy, and pybrain.
+
 *** Undergraduate Research Group - Institute for Cyber Security
 ***** 2012
 Cloud Computing Security, Virtualization
@@ -74,7 +72,26 @@ Cloud Computing Security, Virtualization
   - Software lifecycle :: Agile Automated build process: Jenkins, Travis-CI
   - Deployment automation and management :: Docker, Ansible, Chef, Razor
   - Version Control :: git, Github, mercurial
-  - Virtualization :: AWS, Openstack, VMware, vCloud Director, vCenter, GCP, Azure
-  - Database administration :: neo4j, mysql, postgres
-  - Languages :: javascript, python, groovy, ruby, C, php
+  - Virtualization :: AWS, Openstack, VMware, vCloud Director, vCenter, GCP
+  - Database administration :: neo4j, mysql, postgres, oracle, aurora, dynamodb
+  - Languages :: python, javascript, groovy, ruby, C, php
   - System administration :: Linux, RHEL
+  - Scheduling :: Airflow, Celery, AWS Step Functions, Autosys
+
+# * Linked in
+# I can contribute to any part of a project's lifecycle: Setting up a process, design and architecture, implementation, testing, deployment, refactoring, and maintenance.
+# I understand how to translate high level business requirements into design specifications. I can effectively communicate to project leadership the a team's status with metrics and provide decision driven reports.
+# I work really well with team members of all levels. I can train entry level developers to quickly have them add value. I enjoy working alongside experts, learning from their vast experience, removing their obstacles, and letting them be the rock starts they are.
+
+# My list of specialties:
+
+# Building data driven test and deployment frameworks
+# Web applications: Python bottle, Ruby on Rails, AngularJS
+# Software lifecycle: Agile
+# Automated build process: Jenkins, Travis-CI
+# Deployment automation and management: Docker, Ansible, Chef
+# Version Control: git, Github, mercurial
+# Virtualization: Openstack, VMware, vCloud Director, vCenter
+# Database administration: neo4j, mysql, postgres
+# Scripting languages: python, ruby, perl, php
+# System administration: Linux, RHEL
